@@ -2,7 +2,6 @@ body {
 	background-image: url(../images/foodpattern.png);
 	text-align: center;
 }
-
 footer {
 	overflow: hidden;
 	height: 1rem;
@@ -15,7 +14,6 @@ footer {
 	right: 0;
 	bottom: 0;
 }
-
 #wrapper {
 	margin: 2.5% auto;
 	background-color: rgba(255, 255, 255, 0.824);
@@ -23,7 +21,6 @@ footer {
 	height: 95%;
 	box-sizing: border-box;
 }
-
 button {
 	display: block;
 	width: 20%;
@@ -32,13 +29,11 @@ button {
 	border: none;
 	cursor: pointer;
 }
-
 img {
     height: 300px;
     width: auto;
 	padding-bottom: 1em;
 }
-
 h1 {
 	font-family: 'Aclonica', sans-serif;
 	font-size: 6em;
@@ -46,7 +41,6 @@ h1 {
 	color: rgb(255, 174, 0);
 	padding-top: 2.5%;
 }
-
 #start {
 	margin-top: 10%;
 	margin-bottom: 5em;
