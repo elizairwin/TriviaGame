@@ -1,7 +1,7 @@
 # Trivia-Game
 
 ## Description: 
-A fun and interactive game that allows users to test out their luck. The user clicks on the crystals (which are all assigned different point values) and tries to match the target score. Alerts are displayed for wins/losses and the game is reset at the end of a session.
+A responsive trivia game that has a food theme. The user begins the game and has 30 seconds to answer each question. At the end, a scoreboard is returned for the user.
 
 ## Technology Used:
 * HTML
@@ -9,6 +9,7 @@ A fun and interactive game that allows users to test out their luck. The user cl
 * Bootstrap
 * JavaScript
 * jQuery
+* Timers
 
 ## My Role in App Developement: 
 * Performed setup
