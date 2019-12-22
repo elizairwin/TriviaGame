@@ -1,7 +1,18 @@
-A responsive game that uses HTML5, CSS, JavaScript, and JQuery, and Timers.
+# Trivia-Game
 
-The user begins the game and has 30 seconds to answer each question.
+## Description: 
+A fun and interactive game that allows users to test out their luck. The user clicks on the crystals (which are all assigned different point values) and tries to match the target score. Alerts are displayed for wins/losses and the game is reset at the end of a session.
 
-At the end, a scoreboard is returned for the user. 
+## Technology Used:
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* jQuery
 
-https://elizairwin.github.io/TriviaGame/
+## My Role in App Developement: 
+* Performed setup
+* Created files
+* Wrote clean code
+* Tested app
+* Debugged app
